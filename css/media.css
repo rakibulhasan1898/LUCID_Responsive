@@ -1,0 +1,549 @@
+/*
+########### ############
+    DEVICE - EXTRA EXTRA LARGE
+########### ############
+*/
+@media(min-width:1400px){
+    .left-content h5 {
+        font-size: 15px;
+    }
+    .left-content h1 {
+        font-size: 50px;
+        font-weight: 500;
+    }
+    .left-content p {
+        font-size: 18px;
+    }
+    .hero_image {
+        right: 0%;
+        width: 34%;
+    }
+    .download-now-btn a, .view-features-btn a {
+        font-weight: 500;
+        font-size: 16px;
+    }
+    .feature-padding {
+        margin-top: 10px;
+    }
+    .order_now_btn {
+        width: 43%;
+    }
+    .product_iphone {
+        width: 90%;
+    }
+    .product_iphone img {
+        width: 100%;
+    }
+    .head_contents {
+        padding-top: 0;
+    }
+    .head_contents p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .feature_listing ul li {
+        margin-bottom: 2px;
+    }
+    .customize_section p {
+        font-size: 14px;
+    }
+    .global_title_design h3 {
+        font-size: 33px;
+    }
+    .contents h3, .price_head h4 {
+        font-size: 20px;
+    }
+    .actual_price p {
+        font-size: 14px;
+    }
+    .plan_description p {
+        font-size: 14px;
+    }
+    .contact-margin {
+        margin-top: 5px;
+    }
+    .social-media-links {
+        width: 20%;
+    }
+}
+
+
+
+/*
+########### ############
+    DEVICE - EXTRA LARGE
+########### ############
+*/
+@media(max-width:1399px){
+    .left-content h1 {
+        font-size: 43px;
+        font-weight: 500;
+    }
+    .left-content p {
+        font-size: 15px;
+    }
+    .download-now-btn a, .view-features-btn a {
+        font-weight: 400;
+        font-size: 14px;
+    }
+    .hero_image {
+        width: 34%;
+    }
+    .icon {
+        width: 50px;
+        height: 50px;
+        font-size: 20px;
+    }
+    .contents p {
+        font-weight: 400;
+        font-size: 14px;
+    }
+    .global_title_design h3 {
+        font-size: 30px;
+    }
+    
+    .parent_section h3 {
+        font-size: 24px;
+    }
+   
+    
+    
+}
+
+
+
+
+/*
+########### ############
+    DEVICE - LARGE
+########### ############
+*/
+@media(max-width:1199px){
+    .left-content h1 {
+        font-size: 40px;
+        font-weight: 500;
+    }
+    .order_now_btn {
+        width: 60%;
+    }
+    .plan_description p {
+        font-size: 14px;
+    } 
+}
+
+
+
+
+
+/*
+############ ############## 
+        DEVICE - MEDIUM 
+############ ##############
+*/
+
+@media(max-width:991px){
+    header {
+        background-position: top;
+    }
+    .left-content h5 {
+        font-size: 13px;
+    }
+    .hero_image {
+        width: 60%;
+    }
+    header{
+        min-height: 90vh;
+    }
+    .navbar-nav{
+        text-align: center;
+    }
+    .navigation-list-item {
+        margin-left: 0;
+    }
+    .navigation::before {
+        width: 60px;
+        height: 2px;
+    }
+    .hero-contents {
+        text-align: left;
+    }
+    .button-part {
+        justify-content: left;
+    }
+    .navigation::before {
+        left: 44%;
+    }
+    .hero_image {
+        display: block;
+    }
+    .mobile-view{
+        display: inherit;
+        width: 50%;
+        margin: auto;
+        margin-top: 50px;
+        display: none;
+    }
+    .mobile-view2{
+        display: block;
+    }
+    .left-content h1 {
+        font-weight: 400;
+        font-size: 40px;
+    }
+    .left-content p {
+        font-size: 14px;
+    }
+    .download-now-btn a {
+        font-weight: 400;
+        font-size: 13px;
+    }
+    .view-features-btn a {
+        font-weight: 400;
+        font-size: 13px;
+    }
+    .left-content h1 {
+        font-size: 33px;
+        font-weight: 600;
+    }
+    .left-content p, .navigation {
+        font-size: 14px;
+    }
+    .download-now-btn a, .view-features-btn a {
+        font-weight: 400;
+        font-size: 14px;
+    }
+    .hero_image {
+        width: 42%;
+        right: 0%;
+        bottom: 0%!important;
+    }
+    .row.feature-padding {
+        padding-top: 10px;
+    }
+    .product_iphone {
+        width: 90%;
+    }
+    .product_iphone img {
+        width: 100%;
+    }
+    .global_title_design h3{
+        font-size: 30px;
+    }
+    .head_contents p {
+        padding: 10px 0px 20px;
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .feature_listing ul li {
+        margin-bottom: 3px;
+    }
+    .customize_section p {
+        font-size: 14px;
+    }
+    .parent_section h3 {
+        font-size: 22px;
+    }
+    .order_now_btn {
+        width: 39%;
+    }
+    .last-margins {
+        margin-top: 30px;
+    }
+    .plan_description p, .actual_price p, .contact-icon ~ p, .contents p  {
+        font-size: 14px;
+    }
+    .price_head h4, .contents h3 {
+        font-size: 20px;
+    }
+    .row.contact-margin {
+        margin-top: 10px;
+    }
+    .user_form {
+        padding: 22px;
+    }
+    .user_form {
+        width: 80%;
+    }
+}
+
+
+/* ############ ############## 
+        DEVICE SMALL 
+   ############ ############## 
+*/
+
+@media(max-width:767px){
+    header {
+        background-position: top;
+    }
+    .left-content h5 {
+        font-size: 13px;
+    }
+    .hero_image {
+        width: 60%;
+    }
+    header{
+        min-height: 115vh;
+    }
+    .navbar-nav{
+        text-align: center;
+    }
+    .navigation-list-item {
+        margin-left: 0;
+      
+    }
+    .navigation::before {
+        width: 60px;
+        height: 2px;
+    }
+    .hero-contents {
+        text-align: center;
+    }
+    .button-part {
+        justify-content: center;
+    }
+    .navigation::before {
+        left: 46%;
+    }
+    .hero_image {
+        display: none;
+    }
+    .mobile-view{
+        display: inherit;
+        width: 60%;
+        margin: auto;
+        margin-top: 20%;
+    }
+    .mobile-view2{
+        display: none;
+    }
+    .left-content h1 {
+        font-weight: 400;
+        font-size: 40px;
+    }
+    .left-content p {
+        font-size: 15px;
+    }
+    .download-now-btn a {
+    font-weight: 400;
+    font-size: 13px;
+    padding: 10px;
+    }
+    .view-features-btn a {
+        font-weight: 400;
+        font-size: 13px;
+        padding: 10px;
+    }
+
+    .client_info {
+        justify-content: center;
+    }
+    .feature_listing ul li {
+        margin-bottom: 0px;
+    }
+    .client_message {
+        text-align: center;
+    }
+    .parent_section h3 {
+        font-size: 18px;
+        text-align: center;
+    }
+    .theme_download_section .button-part {
+        justify-content: center;
+        margin-top: 15px;
+    }
+    .price_plans {
+        width: 65%;
+        margin: 14px auto;
+    }
+    .price-padding{
+        padding-top: 22px!important;
+    }
+    .contact-justify{
+        justify-content: center;
+    }
+    .order_now_btn {
+        text-align: center;
+    }
+    .price_plans {
+        margin-bottom: 20px;
+    }
+    .head_contents p {
+        padding: 10px 0px 0px 0;
+    }
+    .owl-carousel {
+        padding-top: 24px!important;
+    }
+    .owl-item.active {
+        display: flex;
+        justify-content: center;
+    }
+    
+    .user_form form textarea {
+        width: 100%;
+        }
+        .user_form form input {
+            width: 90%;
+        }
+        .user_form {
+            width: 46%;
+            padding: 20px 20px;
+        }
+        .user_form {
+            top: 68%;
+        }
+        .user_form {
+            width: 60%;
+        }
+        .contact-margin{
+            margin-top: 24px;
+        }
+        .contact-icon {
+            margin: auto auto 10px;
+           
+        }
+        .contact-icon ~ p {
+            font-size: 13px;
+        }
+        .contact-below-margin{
+            margin-bottom: 20px;
+        }
+        .user_form form input[type="submit"] {
+            width: 40%;
+        }
+        .textarea-width{
+        width: 190%;
+        }
+        .social-media-links {
+            width: 48%;
+        }
+        .product_iphone {
+            width: 50%;
+            margin: auto!important;
+        }
+        .product_deatils_section .global_title_design {
+            text-align: center;
+        }
+        .product_deatils_section .global_title_design span {
+            margin: auto;
+        }
+        .feature_listing {
+            justify-content: center;
+            margin-top: 14px;
+        }
+        .feature-padding{
+            padding-top: 14px!important;
+        }
+        .product_iphone img {
+            width: 100%;
+        }
+        .customize_section .global_title_design {
+            text-align: center;
+        }
+        .customize_section span {
+            margin: auto;
+        }
+        .customize_section {
+            padding-bottom: 0;
+        }
+        .global_title_design h5, .global_title_design p {
+            font-size: 13px;
+        }
+        .global_title_design h3 {
+            font-size: 26px;
+        }
+        .customize_image {
+            width: 70%;
+            margin: 30px auto;
+        }
+        .plan_description p, .order_now_btn a, .actual_price p, .contents p, .feature_content p {
+            font-size: 13px;
+        }
+        .price_head h4 {
+            font-size: 16px;
+        }
+        .actual_price h3 {
+            font-size: 45px;
+        }
+        .icon {
+            width: 50px;
+            height: 50px;
+            font-size: 18px;
+        }
+       
+
+}
+
+
+/*
+ ###### ######## 
+    DEVICE - EXTRA SMALL 
+ ############# ##########
+ */
+
+@media (max-width:575px){
+    
+    .contents h3 {
+        font-size: 20px;
+    }
+    .icon {
+        width: 50px;
+        height: 50px;
+        font-size: 18px;
+    }
+    .order_now_btn a {
+        font-size: 13px;
+        padding: 10px 15px!important;
+    }
+    
+    .last-margins {
+        margin-top: 0;
+    }
+    header {
+        min-height: 110vh;
+    }
+    .textarea-width {
+        width: 100%;
+    }
+    .social-media-links {
+        width: 45%;
+    }
+    .user_form form input::placeholder, .user_form form textarea::placeholder{
+        font-size: 13px;
+    }
+    .order_now_btn {
+        width: 55%;
+    }.order_now_btn a {
+        font-size: 11px;
+    }
+    .user_form form input[type="submit"] {
+        width: 60%;
+    }
+    .user_form form input {
+        font-size: 12px;
+    }
+    .user_form form textarea {
+        padding: 10px 0px 31px 10px;
+        font-size: 12px;
+    }
+    .user_form form input[type="submit"] {
+        font-size: 12px;
+    }
+    .social-media-links {
+        width: 48%;
+    } 
+}
+
+
+
+@media (max-width:400px){
+    .social-media-links {
+        width: 60%;
+    }
+    .user_form form input[type="submit"] {
+        width: 70%;
+    }
+    .textarea-width {
+        width: 220%;
+    }
+}
